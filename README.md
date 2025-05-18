@@ -2,6 +2,8 @@
 
 A web application that displays the Earth using two overlaid gnomonic projections, allowing for visualization of the entire globe while preserving the unique properties of gnomonic projections.
 
+![Screenshot](screenshot.png)
+
 ## Features
 
 - Interactive dual hemisphere visualization with adjustable opacity
